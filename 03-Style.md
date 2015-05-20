@@ -158,7 +158,7 @@ if (x && y && myFunctionThatReturnsBool() && caseNumber3 && (15 > 12 || 2 < 3)) 
 
 // Good Idea
 // Logical grouping, easier to read
-if (x && y && myFunctionThatReturnsBool() 
+if (x && y && myFunctionThatReturnsBool() {
     && caseNumber3 
     && (15 > 12 || 2 < 3)) { 
 }
